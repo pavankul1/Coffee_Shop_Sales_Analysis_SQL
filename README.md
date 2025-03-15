@@ -25,8 +25,7 @@ This project is a SQL-powered analysis of Coffee Shop Sales, focusing on data cl
 ✔ Ranked top 10 best-selling products – To determine customer preferences.
 ✔ Analyzed store-wise sales distribution – Helping businesses optimize inventory and marketing strategies.
 
-📊 SQL Queries Document 👉 View SQL Queries: Both SQL Queries Word Document and MYSQL File uploaded[:https://github.com/pavankul1/Coffee_Shop_Sales_Analysis_SQL/blob/main/README.md](https://github.com/pavankul1/Coffee_Shop_Sales_Analysis_SQL/tree/main)
-
+📊 SQL Queries Document 👉 View SQL Queries: Both SQL Queries Word Document and MYSQL File uploaded
 
 🔥 COMING SOON: POWER BI DASHBOARDS 🚀📊
 💡 What if you could see these SQL-driven insights in a dynamic, interactive way?
