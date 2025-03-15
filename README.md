@@ -1,5 +1,5 @@
-`🚀Coffee Shop Sales Analysis (SQL) ☕📊
-`
+> `🚀Coffee Shop Sales Analysis (SQL) ☕📊
+> `
 
 📌 Project Overview
 This project is a SQL-powered analysis of Coffee Shop Sales, focusing on data cleaning, performance tracking, and KPI-driven insights. The goal is to leverage structured queries to analyze trends, optimize sales strategies, and prepare data for future Power BI integration.
